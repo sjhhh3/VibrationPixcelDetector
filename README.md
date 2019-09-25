@@ -1,7 +1,7 @@
 # VibrationPixelDetector ![version](https://img.shields.io/badge/Version-1.0-blue.svg)
 A software that analyzes the vibration of the region of interest in video.
 Plotting the line chart of POI relative motivation for both vertical and horizontal.
-Exporting the csv file of POI coordination.
+Exporting the csv file of POI coordinates.
 OpenCV tracking APIs used. 
 Tkinter user interface made.
 
@@ -11,8 +11,10 @@ Existing Bug:
 * Select ROI invalid after the first analyzation.
 * CSV file blank rows.
 
-TODO: 
-* Algorithm to give model suggestion.
+TODO(Finished in Version 1.1, Contact For Code If Interested.): 
+* Generate both absolute coordinates and relative coordinates. 
+* Fixed ROI to run multiple models.
+* Algorithm to give the model recommendation, deliver the recommended model result.
       
 
 ## Preview
